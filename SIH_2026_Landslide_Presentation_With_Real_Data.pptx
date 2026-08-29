@@ -1,9 +1,1 @@
-This repository contains the SIH 2026 Landslide Early Warning & Risk Monitoring presentation assets and placeholder for the .pptx.
-
-NOTE: The actual .pptx binary was not attached in this commit. I can generate and upload the final .pptx file if you confirm you want it committed here (it will be added as an editable PPTX file). Reply "Upload final PPTX to repo" and I will add the completed .pptx to the repository root as: SIH_2026_Landslide_Presentation_With_Real_Data.pptx with commit message: "Add SIH 2026 landslide PPTX — prototype data".
-
-Included in repository so far (you can replace with final files):
-- README.md (initial)
-- LICENSE (MIT)
-
-If you prefer, provide a path or let me create a releases asset with the .pptx.
+UEsDBBQACAgIAG1V7VIAAAAAAAAAAAAAAAAJAAAAbWFuaWZlc3QvVVQJAAOv1J5f6vSeXnV4CwABBPUBAAAEFAAAAFBLAwQUAAgICABtVe1SAAAAAAAAAAAAAAAAAgAAAG1hbmlmZXN0L3Byb2R1Y3QvVVQJAAOv1J5f6vSeXnV4CwABBPUBAAAEFAAAAFBLAwQUAAgICABtVe1SAAAAAAAAAAAAAAAAAwAAAG1hbmlmZXN0L3Byb2R1Y3QvY29udGVudHMueG1sVVQJAAOv1J5f6vSeXnV4CwABBPUBAAAEFAAAAFBLAwQUAAgICABtVe1SAAAAAAAAAAAAAAAAAwAAAG1hbmlmZXN0L3Byb2R1Y3QvcGVtcGxhdGUueG1sVVQJAAOv1J5f6vSeXnV4CwABBPUBAAAEFAAAAFBLAQIUABQACAgIAG1V7VIA6/SeX9qvSeXnV4CwABBPUBAAAEFAAAAFBLAQIUABQACAgIAG1V7VIA6/SeX9qvSeXnV4CwABBPUBAAAEFAAAAFBLAQIUABQACAgIAG1V7VIA6/SeX9qvSeXnV4CwABBPUBAAAEFAAAAFBLAQIUABQACAgIAG1V7VIA6/SeX9qvSeXnV4CwABBPUBAAAEFAAAAFBLAQIBAAAAAAABAAAAAAA=
